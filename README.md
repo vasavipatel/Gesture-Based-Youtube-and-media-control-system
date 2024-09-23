@@ -17,5 +17,9 @@
   <p>A Python standard library used for tracking time intervals.</p>
 <p>Capturing live video from the webcam, detecting hand gestures using MediaPipe's hand-tracking model, and simulation of  keyboard inputs based on the number of fingers detected. Each finger count corresponds to different keyboard actions.</p>
 <hr>
-
+<h2>Output</h2>
+<hr>
+<img src="https://github.com/vasavipatel/Gesture-Based-Youtube-and-media-control-system/blob/main/Output1.png" width="600px">
+<hr>
+<img src="https://github.com/vasavipatel/Gesture-Based-Youtube-and-media-control-system/blob/main/Output2.png" width="600px">
 
